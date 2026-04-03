@@ -2,6 +2,7 @@ Tio chi estas la Lens-Studio-pakajho por Snapchat-lenso "[Maro](https://www.snap
 La loko estas specifebla per tio, ke la uzanto enigas ghiajn harmonajn konstituantojn.
 
 Tio, kiel la uzanto enigu, estas priskribita en ret-apo "[Prognozo de akvoniveloj per TICON-4-datumoj](https://script.google.com/a/~/macros/s/AKfycbzgeChQUzIlVM5wmtsrmwZkNNJUZgFLLPvtYkNztVaFhHHq2xp3NqImx2uolmQw_qBG4g/exec)".
+Pro uzo de nelokdependa konservado la enigo estas konservata por la sekva uzo de la lenso.
 
 Bazo:
 
