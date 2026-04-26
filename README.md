@@ -28,7 +28,7 @@ Por krei Snapchat-lenson saman au similan al Maro, oni procedu jene:
 6. Klaku tie al Github Konnect.
 7. Eventuale estas necese antaue instali [Git](https://git-scm.com/download/win) en sia komputilo, por ke `git`-komandoj funkciu.
 8. En la Git Terminal de Lens Studio enigu `git clone https://github.com/AndreasKueck/lensstudiomaro.git` kaj klaku al `Run Git Command`.
-9. Tio efikas, ke en via en-komputila projekto-dosierujo nomo123 ekestas dosierujo lensstudiomaro, en kiu sin trovas interalie dosiero maro.esproj.
+9. Tio efikas, ke en via en-komputila projekto-dosierujo nomo123 ekestas dosierujo lensstudiomaro, en kiu sin trovas interalie dosiero nome maro.esproj au lensstudiomaro.esproj.
 10. Ghin malfermu en Lens Studio (per `File > Open Project`), modifu kaj laubezone konservu sub alia nomo.
 
 ## Permesilo ("License")
