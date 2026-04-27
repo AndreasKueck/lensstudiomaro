@@ -31,6 +31,8 @@ Por krei Snapchat-lenson saman au similan al Maro, oni procedu jene:
 9. Tio efikas, ke en via en-komputila projekto-dosierujo nomo123 ekestas dosierujo lensstudiomaro, en kiu sin trovas interalie dosiero nome maro.esproj au lensstudiomaro.esproj.
 10. Ghin malfermu en Lens Studio (per `File > Open Project`), modifu kaj laubezone konservu sub alia nomo.
 
+Snapchat-lensoj kun kaj similaj funkcioj kaj GitHub-deponejo estas "[Maro: sep horoj](https://www.snapchat.com/lens/33aa009364834fa48d113cd4aba5956c?type=SNAPCODE&metadata=01)" ([GitHub-deponejo](https://github.com/AndreasKueck/lensstudiomarosephoroj)) kaj "[Akvoniveloj (dato)](https://www.snapchat.com/lens/be1946fda5944ed4a4976e5e842f115e?type=SNAPCODE&metadata=01)" ([GitHub-deponejo](https://github.com/AndreasKueck/lensstudioakvonivelojdato)).
+
 ## Permesilo ("License")
 
 Chi tiu projekto estas publikigita sub la [MIT-permesilo](./LICENSE).
