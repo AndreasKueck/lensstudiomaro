@@ -1,0 +1,53 @@
+studioVersion:
+  major: 5
+  minor: 19
+  patch: 2
+  build: 26031623
+  type: Public
+coreVersion: 352
+clientVersion: 13.82
+updateCheckpoint: 92
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Maro
+  lensDescriptors:
+    - GEN_AI_ICON
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+  platformBundlesEnabled: false
+  iconHash: f0a5798ba3a7ee62111f924901287006
+  videoPreviewHash: ""
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.2.1.24102400
+  activationCamera: Rear
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: eda54c83-6246-4fbd-b3a1-5a57bf81eb6c
+  originalDocumentId: d054558a-2e9e-4571-ae5b-101c642b5d51
+  packageId: ""
+  packageVersion: ""
+  spkPrivilegeLevel: Generic
+  gluboEnabled: false

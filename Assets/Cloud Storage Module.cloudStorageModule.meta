@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/0ffd6f35-a8c7-4879-b163-0db1b4dd7a69>
+  ImportedAssetIds:
+    CloudStorageModule: !<reference> 5421e6a4-76f8-4e99-975d-90089feef79a
+  ImporterName: CloudStorageModuleImporter
+  PrimaryAsset: !<reference> 5421e6a4-76f8-4e99-975d-90089feef79a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

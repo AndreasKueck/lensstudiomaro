@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/b99f7530-03cb-469b-86f1-b06d9db3d6a6>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3f721aca-9778-4896-b282-6f301b6f4f15
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3f721aca-9778-4896-b282-6f301b6f4f15
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 688cf259-e8d0-4628-9a7d-0a73b4343ea5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/688cf259-e8d0-4628-9a7d-0a73b4343ea5>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 5ef7e337-edce-4de5-8b2f-0b2b11d7e54c
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cloudStorageModule: false
+    eligoTeksto: false
+    textComponent: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - textComponent: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      eligoTeksto: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      cloudStorageModule: !<reference.CloudStorageModule> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
